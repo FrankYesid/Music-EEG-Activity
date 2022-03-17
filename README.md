@@ -5,9 +5,7 @@ Connectivity analysis in music perception of EEG in relation to music
 [![documentation](https://img.shields.io/travis/nbara/python-meegkit.svg?label=documentation&logo=travis)](https://www.travis-ci.com/github/nbara/python-meegkit)
 
 
-Denoising tools processing in Python 3.7+.
-
-> **Disclaimer:** The project mostly consists of development code, although some modules and functions are already working. Bugs and performance problems are to be expected, so use at your own risk. More tests and improvements will be added in the future. Comments and suggestions are welcome.
+> **:** The project mostly consists of development code, although some modules and functions are already working.
 
 ## Documentation
 
@@ -18,7 +16,7 @@ This code can also be tested directly from your browser using [Binder](https://m
 
 ## References
 
-### 1. CCA,
+### 1. CCA
 
 This is mostly a translation of Python code Notebook from the [NoiseTools toolbox](http://audition.ens.fr/adc/NoiseTools/) by Alain de Cheveigné. It builds on an initial python implementation by [Pedro Alcocer](https://github.com/pealco).
 
@@ -42,9 +40,6 @@ If you use this code, you should cite the relevant methods from the original art
     Journal of Neuroscience Methods, 189(1), 113–120. https://doi.org/10.1016/j.jneumeth.2010.03.002
 [8] de Cheveigné, A., & Simon, J. Z. (2008a). Denoising based on spatial filtering.
     Journal of Neuroscience Methods, 171(2), 331–339. https://doi.org/10.1016/j.jneumeth.2008.03.015
-[9] de Cheveigné, A., & Simon, J. Z. (2008b). Sensor noise suppression.
-    Journal of Neuroscience Methods, 168(1), 195–202. https://doi.org/10.1016/j.jneumeth.2007.09.012
-[10] de Cheveigné, A., & Simon, J. Z. (2007). Denoising based on time-shift PCA.
-     Journal of Neuroscience Methods, 165(2), 297–305. https://doi.org/10.1016/j.jneumeth.2007.06.003
-
 ```
+
+### 2.
