@@ -6,7 +6,7 @@ Connectivity analysis in music perception of EEG in relation to music
 
 ## Documentation
 
-Automatic documentation is [available online]().
+Automatic documentation is [available online](https://github.com/FrankYesid/Music-EEG-Activity).
 
 
 ## References
