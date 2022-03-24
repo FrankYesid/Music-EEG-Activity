@@ -1,25 +1,25 @@
 # Music-EEG-Activity
 Connectivity analysis in music perception of EEG in relation to music
 
-[![unit-tests](https://github.com/nbara/python-meegkit/workflows/unit-tests/badge.svg?style=flat)](https://github.com/nbara/python-meegkit/actions?workflow=unit-tests)
-[![documentation](https://img.shields.io/travis/nbara/python-meegkit.svg?label=documentation&logo=travis)](https://www.travis-ci.com/github/nbara/python-meegkit)
-
 
 > **:** The project mostly consists of development code, although some modules and functions are already working.
 
 ## Documentation
 
-Automatic documentation is [available online](https://nbara.github.io/python-meegkit/).
-
-This code can also be tested directly from your browser using [Binder](https://mybinder.org), by clicking on the binder badge above.
+Automatic documentation is [available online]().
 
 
 ## References
 
-### 1. CCA
+### 1. An EEG dataset recorded during affective music listening
+![Databases_musica](https://openneuro.org/datasets/ds002721/versions/1.0.1)
+
+This data, publicly available at1, was collected from 𝑁𝑆=31 individuals. The testing paradigm performed six runs of brain neural responses split into two partitions: baseline resting recordings measured while the participants were sitting still and looking at the screen for 300 s (first and last run); four intervening runs (that is, 𝑁𝑅=40 trials per subject), each with ten individual trials. A fixation cross was presented within a single trial from the beginning until 15 s had elapsed. A randomly selected musical clip was played for 𝑇=12 s after the appearance of the fixation cross. After listening to musical stimuli, the participants were given a short pause before answering eight questions in random order to rate the music on a scale (1-9) of induced pleasantness, energy, tension, anger, fear, happiness, sadness, and sadness tenderness. Each participant had 2-4 s between answering the last question and the subsequent fixation cross in the inter-trial intervals.
+
+
+### 2. CCA
 
 This is mostly a translation of Python code Notebook from the [NoiseTools toolbox](http://audition.ens.fr/adc/NoiseTools/) by Alain de Cheveigné. It builds on an initial python implementation by [Pedro Alcocer](https://github.com/pealco).
-
 
 If you use this code, you should cite the relevant methods from the original articles:
 
@@ -41,5 +41,3 @@ If you use this code, you should cite the relevant methods from the original art
 [8] de Cheveigné, A., & Simon, J. Z. (2008a). Denoising based on spatial filtering.
     Journal of Neuroscience Methods, 171(2), 331–339. https://doi.org/10.1016/j.jneumeth.2008.03.015
 ```
-
-### 2.
