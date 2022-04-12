@@ -11,12 +11,6 @@ Automatic documentation is [available online](https://github.com/FrankYesid/Musi
 
 ## References
 
-### 1. An EEG dataset recorded during affective music listening
-![Database_musica](https://openneuro.org/datasets/ds002721/versions/1.0.1)
-
-This data, publicly available at1, was collected from 𝑁𝑆=31 individuals. The testing paradigm performed six runs of brain neural responses split into two partitions: baseline resting recordings measured while the participants were sitting still and looking at the screen for 300 s (first and last run); four intervening runs (that is, 𝑁𝑅=40 trials per subject), each with ten individual trials. A fixation cross was presented within a single trial from the beginning until 15 s had elapsed. A randomly selected musical clip was played for 𝑇=12 s after the appearance of the fixation cross. After listening to musical stimuli, the participants were given a short pause before answering eight questions in random order to rate the music on a scale (1-9) of induced pleasantness, energy, tension, anger, fear, happiness, sadness, and sadness tenderness. Each participant had 2-4 s between answering the last question and the subsequent fixation cross in the inter-trial intervals.
-
-
 ### 2. CCA
 
 This is mostly a translation of Python code Notebook from the [NoiseTools toolbox](http://audition.ens.fr/adc/NoiseTools/) by Alain de Cheveigné. It builds on an initial python implementation by [Pedro Alcocer](https://github.com/pealco).
